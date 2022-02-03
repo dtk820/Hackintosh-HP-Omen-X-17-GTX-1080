@@ -41,6 +41,7 @@ Realtek RTL8822BE
 
 Credits
 
+https://github.com/CloverHackyColor/CloverBootloader
 https://github.com/acidanthera
 
 https://github.com/VoodooSMBus
