@@ -50,3 +50,12 @@ https://github.com/VoodooSMBus
 https://sourceforge.net/projects/voodoohda/
 
 https://github.com/leocg
+
+https://www.osx86.net 
+
+https://osxlatitude.com 
+
+https://www.insanelymac.com 
+
+https://www.tonymacx86.com  
+
