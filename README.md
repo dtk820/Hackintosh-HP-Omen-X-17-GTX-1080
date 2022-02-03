@@ -10,21 +10,25 @@ OC 0.7.7,
 
 Clover 5144, 
 
+Kexts: Lilu.kext, WhateverGreen.kext, VirtualSMC.kext, VoodooPS2Controller.kext
+
 What works
 
-Ethernet
+Ethernet (RealtekRTL8111.kext)
 
-Wi-Fi
+Wi-Fi (TL-WN725N)
 
-Bluetooth
+Bluetooth (Hideez Bluetooth Dongle, BlueToolFixup.kext)
 
-Internal Speakers, Internal Microphone
+Internal Speakers, Internal Microphone (AppleALC.kext)
 
-Trackpad (SMBus)
+Trackpad (SMBus, VoodooSMBus.kext, VoodooRMI.kext)
 
-HDMI connection, HDMI audio
+HDMI connection (NVIDIA Web Driver 387.10.10.10.40.140, CUDADriver 418.163.pkg)
 
-USB ports
+HDMI audio (VoodooHDA.kext)
+
+USB ports (https://github.com/corpnewt/USBMap)
 
 NVIDIA Graphics GTX 1080 8 GB
 
@@ -33,4 +37,4 @@ What does not work
 
 Trackpad is not shown in System Preferences (battery is needed)
 
-
+Realtek RTL8822BE
