@@ -6,9 +6,9 @@ Hackintosh Big Sur 11.6.3 and Monterey 12.2 HP-Omen-X-17-GTX-1080
 ![image](https://user-images.githubusercontent.com/79387598/152271995-39f8f88d-ccea-4122-83d5-1a494f80d50f.png)
 ![image](https://user-images.githubusercontent.com/79387598/152272028-78ea0fb5-1138-4d80-a68d-4d7878f26b47.png)
 
-OC 0.7.7, 
+OC 0.7.7, Big Sur 11.6.3 (20G415), Monterey 12.2 (21D49)
 
-Clover 5144, 
+Clover 5144, Big Sur 11.6.3 (20G415), Monterey 12.2 (21D49)
 
 Kexts: Lilu.kext, WhateverGreen.kext, VirtualSMC.kext, VoodooPS2Controller.kext
 
