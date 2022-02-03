@@ -30,7 +30,7 @@ HDMI audio (VoodooHDA.kext)
 
 USB ports (https://github.com/corpnewt/USBMap)
 
-NVIDIA Graphics GTX 1080 8 GB
+NVIDIA Graphics GTX 1080 8 GB (NVIDIA Web Driver 387.10.10.10.40.140, CUDADriver 418.163.pkg)
 
 
 What does not work
@@ -38,3 +38,13 @@ What does not work
 Trackpad is not shown in System Preferences (battery is needed)
 
 Realtek RTL8822BE
+
+Credits
+
+https://github.com/acidanthera
+
+https://github.com/VoodooSMBus
+
+https://sourceforge.net/projects/voodoohda/
+
+https://github.com/leocg
