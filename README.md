@@ -39,9 +39,9 @@ NVIDIA Graphics GTX 1080 8 GB (NVIDIA Web Driver 387.10.10.10.40.140, CUDADriver
 
 What does not work
 
-Trackpad is not shown in System Preferences (battery is needed)
+Trackpad is not shown in System Preferences (battery is needed) (you help me)
 
-Realtek RTL8822BE
+Realtek RTL8822BE (you help me)
 
 Credits
 
