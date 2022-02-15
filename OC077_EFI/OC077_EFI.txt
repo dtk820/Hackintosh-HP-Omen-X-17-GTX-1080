@@ -1,1 +1,0 @@
-This is OpenCore 0.7.7 EFI for Big Sur 11.6.3 (20G415) and Monterey 12.2 (21D49) on HP Omen X 17 GTX 1080.
